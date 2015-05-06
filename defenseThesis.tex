@@ -1,0 +1,180 @@
+%  University of Houston PhD proposal
+%
+% on  PC
+%\documentclass[12pt]{report}
+% \usepackage{uhthesis}
+% \usepackage[pctex32]{graphics}
+% \usepackage[pctex32]{color}
+%\usepackage{psfig}
+\documentclass[12pt]{report}
+\usepackage{uhthesis3}
+\usepackage{epsfig}
+\usepackage{epsf}
+
+\input{tex/definitions.tex}
+
+\usepackage{url}
+\usepackage{float}
+\usepackage{subfigure}
+\usepackage{siunitx}
+\usepackage{amsmath,amssymb}
+\usepackage{lscape}
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+\usepackage{mathtools}
+\usepackage[justification=centering]{caption}
+
+ 
+\usepackage[%
+%\ifpdf
+ pdftex,
+%\else
+% dvipdf,
+%\fi
+% ps2pdf, % using ps2pdf vs pdftex
+% colorlinks=true, % color the words instead of use a colored box
+% urlcolor=blue, % \href{...}{...} external (URL)
+% filecolor=blue, % \href{...} local file
+% linkcolor=black, % \ref{...} and \pageref{...}
+% citecolor=black, % \cite{}
+pdfborder={0 0 0}, % for removing borders around links
+plainpages=false,
+% plainpages boolean true
+% Forces page anchors to be named by the arabic form of the page number,
+% rather than the formatted form.
+breaklinks=true,
+% breaklinks boolean false
+% Allows link text to break across lines; since this cannot be accommodated in
+% PDF, it is only set true by default if the pdftex driver is used. This makes
+% links on multiple lines into different PDF links to the same target.
+pagebackref=true,
+% Adds ?backlink? text to the end of each item in the bibliography, as a list
+% of section numbers. This can only work properly if there is a blank line
+% after each \bibitem.
+bookmarksnumbered=true,
+% bookmarksnumbered boolean false
+% If Acrobat bookmarks are requested, include section numbers.
+bookmarksopen=true,
+% bookmarksopen boolean false
+% If Acrobat bookmarks are requested, show them with all the subtrees expanded.
+pdftitle={},
+pdfauthor={},
+pdfsubject={},
+pdfkeywords={},
+pdfpagelabels=true,
+pdfpagemode=UseOutlines % None, UseThumbs, UseOutlines, FullScreen
+]{hyperref}
+
+
+\algnewcommand{\LineComment}[1]{\State \(\triangleright\) #1}
+\renewcommand*{\arraystretch}{1.2}
+
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+%\input{algorithms}
+%
+%
+%
+% on UNIX LATEX and Windows PCTEX32
+%\documentstyle[12pt,uhthesis1,psfig]{report}
+%\usepackage{epsfig}
+%\input{algorithms}
+%\input{psfig}
+%\input{dnmmath}
+%\input{ion-math}
+
+%begin add from saso paper, check if ok for UH template
+
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\newcommand{\be}{\begin{equation}}
+\newcommand{\ee}{\end{equation}}
+\newcommand{\bd}{\begin{displaymath}}
+\newcommand{\ed}{\end{displaymath}}
+\newcommand{\myvec}[1] % Vektor
+   {\mathbb{#1}}
+%\newcommand{\mat}[1] % Matrix
+%   {\mathsf{#1}}
+%end add
+
+\setcounter{secnumdepth}{4}
+\begin{document}
+% Bismillahirrahmanirrahim
+%Bismilleh Arrahman Arrahim
+%first title tentative
+\title{\bf \large Automated Segmentation, Analysis and Classification of Zebrafish Vasculature }
+% Runtime / Dynamic / On the fly
+% Adaptation / Optimization /  Tuning
+\author{Charu Hans}
+%pre - defense date -> defense date then
+\submitdate{May 2015} \degree{Doctor of Philosophy}{Dissertation}
+\adviser{Shishir Shah, Chairman\\
+Dept. of Computer Science }
+
+\firstreader{Edgar Gabriel \\
+Dept. of Computer Science}
+
+\secondreader{Guoning Chen\\
+Dept. of Computer Science}
+
+\thirdreader{Fatima Merchant\\
+Dept. of Engineering Technology, \\
+College of Technology}
+
+\fourthreader{Maria Bondesson\\
+Dept. of Biology and Biochemistry}
+
+\copyrightfalse \makecoverpages
+\begin{acknowledgements}
+%\input{acknowledgements.tex}
+\end{acknowledgements}
+
+\begin{abstract}
+\input {tex/abstract.tex}
+\end{abstract}
+\setlength{\parskip}{.1 in}
+
+\makecontentspages
+
+%uncomment the following for single space drafts
+%\singlespace
+
+% \pagenumbering{romans}{1}
+% \beforepreface
+
+%\pagestyle(empty}\times
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\chapterpages
+
+%turn figures on and off
+\newif \ifFIGS
+
+%\FIGStrue
+
+\FIGSfalse
+
+
+%\tablelistfalse
+
+%\listoftables
+
+% to fix the page number
+%\input{Sample_chapter.tex}
+%\input{table.tex}
+\input{tex/introduction.tex}
+\input{tex/relatedWork.tex}
+\input{tex/segmentation.tex}
+\input{tex/feature.tex}
+\input{tex/materials.tex}
+\input{tex/results.tex}
+\input{tex/conclusion.tex}
+%\bibliographystyle{abbrv}
+\bibliographystyle{acm}
+\bibliography{bibliography}
+%\bibliography{main,BIB/vcl14}
+\end{document}

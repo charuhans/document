@@ -1,0 +1,14 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Summary Zebrafish Image Analysis}}{22}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Segmentation results for ISV}}{51}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Recognition results (\%) for GLCM with varying d}}{57}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Recognition results (\%) for Co - HOG with varying bin size $K$ for $[0, 360]$ orientation}}{58}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Recognition results (\%) for Co - HOG with varying bin size $K$ for $[0, 180]$ orientation}}{58}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Recognition results (\%) for Co - HOG with varying bin size $K$ for $[0, 360]$ orientation}}{59}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Recognition results (\%) for Co - HOG with varying bin size $K$ for $[0, 180]$ orientation}}{59}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Recognition results (\%) for HOG with varying bin size $K$ for $[0, 360]$ orientation}}{60}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Recognition results (\%) for HOG with varying bin size $K$ for $[0, 180]$ orientation}}{60}
+\contentsline {table}{\numberline {4.9}{\ignorespaces Recognition results (\%) for descriptors with 360 \degree orientation}}{60}

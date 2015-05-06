@@ -1,0 +1,59 @@
+\BOOKMARK [0][]{chapter.1}{1 Introduction}{}% 1
+\BOOKMARK [1][]{section.1.1}{1.1 Motivation}{chapter.1}% 2
+\BOOKMARK [1][]{section.1.2}{1.2 Zebrafish Image Analysis}{chapter.1}% 3
+\BOOKMARK [1][]{section.1.3}{1.3 Zebrafish Vasculature Anatomy}{chapter.1}% 4
+\BOOKMARK [1][]{section.1.4}{1.4 Challenges}{chapter.1}% 5
+\BOOKMARK [1][]{section.1.5}{1.5 Research Goal}{chapter.1}% 6
+\BOOKMARK [1][]{section.1.6}{1.6 System Overview}{chapter.1}% 7
+\BOOKMARK [1][]{section.1.7}{1.7 Summary of Contribution}{chapter.1}% 8
+\BOOKMARK [1][]{section.1.8}{1.8 Thesis Outline}{chapter.1}% 9
+\BOOKMARK [0][]{chapter.2}{2 Related Work}{}% 10
+\BOOKMARK [1][]{section.2.1}{2.1 Manual Analysis}{chapter.2}% 11
+\BOOKMARK [1][]{section.2.2}{2.2 Semi-Automated Analysis}{chapter.2}% 12
+\BOOKMARK [1][]{section.2.3}{2.3 Automated Analysis}{chapter.2}% 13
+\BOOKMARK [2][]{subsection.2.3.1}{2.3.1 Template Based}{section.2.3}% 14
+\BOOKMARK [2][]{subsection.2.3.2}{2.3.2 Learning Based}{section.2.3}% 15
+\BOOKMARK [2][]{subsection.2.3.3}{2.3.3 Contour Based}{section.2.3}% 16
+\BOOKMARK [2][]{subsection.2.3.4}{2.3.4 Curvature and Edge Based}{section.2.3}% 17
+\BOOKMARK [2][]{subsection.2.3.5}{2.3.5 Tracking Based}{section.2.3}% 18
+\BOOKMARK [0][]{chapter.3}{3 Zebrafish Segmentation}{}% 19
+\BOOKMARK [1][]{section.3.1}{3.1 Embryo Segmentation}{chapter.3}% 20
+\BOOKMARK [1][]{section.3.2}{3.2 Region of Interest Detection}{chapter.3}% 21
+\BOOKMARK [1][]{section.3.3}{3.3 Intersegmental Vessel Segmentation}{chapter.3}% 22
+\BOOKMARK [2][]{subsection.3.3.1}{3.3.1 Eigen Analysis}{section.3.3}% 23
+\BOOKMARK [2][]{subsection.3.3.2}{3.3.2 Adaptive Niblack thresholding}{section.3.3}% 24
+\BOOKMARK [2][]{subsection.3.3.3}{3.3.3 Linking vessels}{section.3.3}% 25
+\BOOKMARK [2][]{subsection.3.3.4}{3.3.4 Post Processing}{section.3.3}% 26
+\BOOKMARK [1][]{section.3.4}{3.4 Caudal Vein Plexus Segmentation}{chapter.3}% 27
+\BOOKMARK [0][]{chapter.4}{4 Feature Extraction}{}% 28
+\BOOKMARK [1][]{section.4.1}{4.1 Intersegmental Vessel Feature Extraction}{chapter.4}% 29
+\BOOKMARK [1][]{section.4.2}{4.2 Caudal Vein Plexus Feature Extraction}{chapter.4}% 30
+\BOOKMARK [2][]{subsection.4.2.1}{4.2.1 Gray Level Co-occurrence Matrix}{section.4.2}% 31
+\BOOKMARK [2][]{subsection.4.2.2}{4.2.2 Histogram of Oriented Gradients}{section.4.2}% 32
+\BOOKMARK [2][]{subsection.4.2.3}{4.2.3 Co-occurrence of Histogram of Oriented Gradients}{section.4.2}% 33
+\BOOKMARK [1][]{section.4.3}{4.3 Vasculature Time-lapse Features}{chapter.4}% 34
+\BOOKMARK [2][]{subsection.4.3.1}{4.3.1 Vasculature Registration}{section.4.3}% 35
+\BOOKMARK [2][]{subsection.4.3.2}{4.3.2 Vasculature Morphology}{section.4.3}% 36
+\BOOKMARK [0][]{chapter.5}{5 Materials}{}% 37
+\BOOKMARK [1][]{section.5.1}{5.1 Two Dimensional Data}{chapter.5}% 38
+\BOOKMARK [2][]{subsection.5.1.1}{5.1.1 Chemical Treatments}{section.5.1}% 39
+\BOOKMARK [2][]{subsection.5.1.2}{5.1.2 Imaging}{section.5.1}% 40
+\BOOKMARK [1][]{section.5.2}{5.2 Three Dimensional Time - Lapse Data}{chapter.5}% 41
+\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Chemical Treatment}{section.5.2}% 42
+\BOOKMARK [2][]{subsection.5.2.2}{5.2.2 Imaging}{section.5.2}% 43
+\BOOKMARK [2][]{subsection.5.2.3}{5.2.3 Time-lapse imaging}{section.5.2}% 44
+\BOOKMARK [0][]{chapter.6}{6 Zebrafish Analysis}{}% 45
+\BOOKMARK [1][]{section.6.1}{6.1 Intersegmental Vessel Analysis}{chapter.6}% 46
+\BOOKMARK [2][]{subsection.6.1.1}{6.1.1 Segmentation Analysis}{section.6.1}% 47
+\BOOKMARK [2][]{subsection.6.1.2}{6.1.2 Toxicity impacts Intersegmental Vessels}{section.6.1}% 48
+\BOOKMARK [1][]{section.6.2}{6.2 Toxicity impacts Caudal Vein Plexus}{chapter.6}% 49
+\BOOKMARK [2][]{subsection.6.2.1}{6.2.1 Gray Level Co-occurrence Matrix Analysis}{section.6.2}% 50
+\BOOKMARK [2][]{subsection.6.2.2}{6.2.2 Histogram of Gradient Analysis}{section.6.2}% 51
+\BOOKMARK [2][]{subsection.6.2.3}{6.2.3 Co - occurrence of Histogram of Gradient Analysis}{section.6.2}% 52
+\BOOKMARK [2][]{subsection.6.2.4}{6.2.4 Gradient Co - occurrence of Histogram of Gradient Analysis}{section.6.2}% 53
+\BOOKMARK [1][]{section.6.3}{6.3 Toxicity Screening with ISV, CVP}{chapter.6}% 54
+\BOOKMARK [1][]{section.6.4}{6.4 Vasculature Time - Series Analysis}{chapter.6}% 55
+\BOOKMARK [0][]{chapter.7}{7 Conclusions and Perspectives}{}% 56
+\BOOKMARK [1][]{section.7.1}{7.1 Discussion and Limitations}{chapter.7}% 57
+\BOOKMARK [1][]{section.7.2}{7.2 Future Work}{chapter.7}% 58
+\BOOKMARK [0][]{section.7.2}{Bibliography}{}% 59

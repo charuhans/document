@@ -1,0 +1,402 @@
+\begin{thebibliography}{10}
+
+\bibitem{alshut2010}
+{\sc Alshut, R., Legradi, J., Liebel, U., Yang, L., van Wezel, J., Str{\"a}hle,
+  U., Mikut, R., and Reischl, M.}
+\newblock Methods for automated high-throughput toxicity testing using
+  zebrafish embryos.
+\newblock In {\em KI 2010: Advances in Artificial Intelligence}. Springer,
+  2010, pp.~219--226.
+
+\bibitem{Amatruda08}
+{\sc Amatruda, J.~F., and Patton, E.~E.}
+\newblock In {\em Chapter 1 Genetic Models of Cancer in Zebrafish}, K.~W. Jeon,
+  Ed., vol.~271 of {\em International Review of Cell and Molecular Biology}.
+  Academic Press, 2008, pp.~1 -- 34.
+
+\bibitem{annila2013}
+{\sc Annila, T., Lihavainen, E., Marques, I.~J., Williams, D.~R., Yli-Harja,
+  O., and Ribeiro, A.}
+\newblock Zebiat, an image analysis tool for registering zebrafish embryos and
+  quantifying cancer metastasis.
+\newblock {\em BMC bioinformatics 14}, Suppl 10 (2013), S5.
+
+\bibitem{Arslanova10}
+{\sc Arslanova, D., Yang, T., Xu, X., Wong, S., Augelli-Szafran, C., and Xia,
+  W.}
+\newblock Phenotypic analysis of images of zebrafish treated with alzheimer's
+  γ-secretase inhibitors.
+\newblock {\em BMC Biotechnology 10}, 1 (2010).
+
+\bibitem{Bang02}
+{\sc Bang, P.~I., Yelick, P.~C., Malicki, J.~J., and Sewell, W.~F.}
+\newblock High-throughput behavioral screening method for detecting auditory
+  response defects in zebrafish.
+\newblock {\em Journal of Neuroscience Methods 118}, 2 (2002), 177 -- 187.
+
+\bibitem{bang2002}
+{\sc Bang, P.~I., Yelick, P.~C., Malicki, J.~J., and Sewell, W.~F.}
+\newblock High-throughput behavioral screening method for detecting auditory
+  response defects in zebrafish.
+\newblock {\em Journal of neuroscience methods 118}, 2 (2002), 177--187.
+
+\bibitem{Betke01}
+{\sc Betke, M., Hong, H., and Ko, J.}
+\newblock Automatic 3d registration of lung surfaces in computed tomography
+  scans.
+\newblock Tech. rep., Boston, MA, USA, 2001.
+
+\bibitem{Boehmler09}
+{\sc Boehmler, W., Petko, J., Woll, M., Frey, C., Thisse, B., Thisse, C.,
+  Canfield, V.~A., and Levenson, R.}
+\newblock Identification of zebrafish \{A2\} adenosine receptors and expression
+  in developing embryos.
+\newblock {\em Gene Expression Patterns 9}, 3 (2009), 144 -- 151.
+
+\bibitem{Bosch07}
+{\sc Bosch, A., Zisserman, A., and Munoz, X.}
+\newblock Representing shape with a spatial pyramid kernel.
+\newblock CIVR '07, pp.~401--408.
+
+\bibitem{Nielsen97}
+{\sc Bro-Nielsen, M., Gramkow, C., and Kreiborg, S.}
+\newblock Non-rigid image registration using bone growth model.
+\newblock In {\em CVRMed-MRCAS'97}, J.~Troccaz, E.~Grimson, and R.~Mösges,
+  Eds., vol.~1205 of {\em Lecture Notes in Computer Science}. Springer Berlin
+  Heidelberg, 1997, pp.~1--12.
+
+\bibitem{campbell2006}
+{\sc Campbell, W.~A., Yang, H., Zetterberg, H., Baulac, S., Sears, J.~A., Liu,
+  T., Wong, S.~T., Zhong, T.~P., and Xia, W.}
+\newblock Zebrafish lacking alzheimer presenilin enhancer 2 (pen-2) demonstrate
+  excessive p53-dependent apoptosis and neuronal loss.
+\newblock {\em Journal of neurochemistry 96}, 5 (2006), 1423--1440.
+
+\bibitem{Chen05}
+{\sc Chen, E., Stringer, S.~E., Rusch, M.~A., Selleck, S.~B., and Ekker, S.~C.}
+\newblock A unique role for 6-o sulfation modification in zebrafish vascular
+  development.
+\newblock {\em Developmental Biology 284}, 2 (2005), 364 -- 376.
+
+\bibitem{Chen11}
+{\sc Chen, S., Zhu, Y., Xia, W., Xia, S., and Xu, X.}
+\newblock Automated analysis of zebrafish images for phenotypic changes in drug
+  discovery.
+\newblock {\em Journal of Neuroscience Methods 200}, 2 (2011), 229 -- 236.
+
+\bibitem{cheng2001}
+{\sc Cheng, S.~H., Chan, P.~K., and Wu, R. S.~S.}
+\newblock The use of microangiography in detecting aberrant vasculature in
+  zebrafish embryos exposed to cadmium.
+\newblock {\em Aquatic Toxicology 52}, 1 (2001), 61--71.
+
+\bibitem{choi2011}
+{\sc Choi, J., Mouillesseaux, K., Wang, Z., Fiji, H.~D., Kinderman, S.~S.,
+  Otto, G.~W., Geisler, R., Kwon, O., and Chen, J.-N.}
+\newblock Aplexone targets the hmg-coa reductase pathway and differentially
+  regulates arteriovenous angiogenesis.
+\newblock {\em Development 138}, 6 (2011), 1173--1181.
+
+\bibitem{Dalal05}
+{\sc Dalal, N., and Triggs, B.}
+\newblock Histograms of oriented gradients for human detection.
+\newblock CVPR '05, pp.~886--893.
+
+\bibitem{Descoteaux05}
+{\sc Descoteaux, M., Audette, M., Chinzei, K., and Siddiqi, K.}
+\newblock Bone enhancement filtering: Application to sinus bone segmentation
+  and simulation of pituitary surgery.
+\newblock In {\em Medical Image Computing and Computer-Assisted Intervention
+  – MICCAI 2005}, J.~Duncan and G.~Gerig, Eds., vol.~3749 of {\em Lecture
+  Notes in Computer Science}. Springer Berlin Heidelberg, 2005, pp.~9--16.
+
+\bibitem{Deniz11}
+{\sc Déniz, O., Bueno, G., Salido, J., and la~Torre, F.}
+\newblock Face recognition using histograms of oriented gradients.
+\newblock {\em Pattern Recognition Letters 32}, 12 (2011), 1598--1603.
+
+\bibitem{Fan10}
+{\sc Fan, C.-Y., Cowden, J., Simmons, S.~O., Padilla, S., and Ramabhadran, R.}
+\newblock Gene expression changes in developing zebrafish as potential markers
+  for rapid developmental neurotoxicity screening.
+\newblock {\em Neurotoxicology and Teratology 32}, 1 (2010), 91 -- 98.
+
+\bibitem{Feng05}
+{\sc Feng, J., Cheng, S.~H., Chan, P.~K., and Ip, H.~H.}
+\newblock Reconstruction and representation of caudal vasculature of zebrafish
+  embryo from confocal scanning laser fluorescence microscopic images.
+\newblock {\em Computers in Biology and Medicine 35}, 10 (2005), 915 -- 931.
+
+\bibitem{folkman1995}
+{\sc Folkman, J.}
+\newblock Angiogenesis in cancer, vascular, rheumatoid and other disease.
+\newblock {\em Nature medicine 1}, 1 (1995), 27--30.
+
+\bibitem{Forsey88}
+{\sc Forsey, D.~R., and Bartels, R.~H.}
+\newblock Hierarchical b-spline refinement.
+\newblock {\em SIGGRAPH Comput. Graph. 22}, 4 (June 1988), 205--212.
+
+\bibitem{fouquet1997}
+{\sc Fouquet, B., Weinstein, B.~M., Serluca, F.~C., and Fishman, M.~C.}
+\newblock Vessel patterning in the embryo of the zebrafish: guidance by
+  notochord.
+\newblock {\em Developmental biology 183}, 1 (1997), 37--48.
+
+\bibitem{Frangi98multiscalevessel}
+{\sc Frangi, R.~F., Niessen, W.~J., Vincken, K.~L., and Viergever, M.~A.}
+\newblock Multiscale vessel enhancement filtering.
+\newblock Springer-Verlag, pp.~130--137.
+
+\bibitem{haralick1973}
+{\sc Haralick, R.~M., Shanmugam, K., and Dinstein, I.~H.}
+\newblock Textural features for image classification.
+\newblock {\em Systems, Man and Cybernetics, IEEE Transactions on}, 6 (1973),
+  610--621.
+
+\bibitem{haralock1991}
+{\sc Haralock, R.~M., and Shapiro, L.~G.}
+\newblock {\em Computer and robot vision}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., 1991.
+
+\bibitem{isogai01}
+{\sc Isogai, S., Horiguchi, M., and Weinstein, B.~M.}
+\newblock The vascular anatomy of the developing zebrafish: an atlas of
+  embryonic and early larval development.
+\newblock {\em Developmental biology 230}, 2 (2001), 278--301.
+
+\bibitem{kamali2009}
+{\sc Kamali, M., Day, L., Brooks, D., Zhou, X., and O'MALLEY, D.}
+\newblock Automated identification of neurons in 3d confocal datasets from
+  zebrafish brainstem.
+\newblock {\em Journal of microscopy 233}, 1 (2009), 114--131.
+
+\bibitem{Kato04}
+{\sc Kato, S., Nakagawa, T., Ohkawa, M., Muramoto, K., Oyama, O., Watanabe, A.,
+  Nakashima, H., Nemoto, T., and Sugitani, K.}
+\newblock A computer image processing system for quantification of zebrafish
+  behavior.
+\newblock {\em Journal of Neuroscience Methods 134}, 1 (2004), 1 -- 7.
+
+\bibitem{Kaufman09}
+{\sc Kaufman, C.~K., White, R.~M., and Zon, L.}
+\newblock Chemical genetic screening in the zebrafish embryo.
+\newblock {\em Nature protocols 4}, 10 (Sep 2009).
+
+\bibitem{Kimmel95}
+{\sc Kimmel, C.~B., Ballard, W.~W., Kimmel, S.~R., Ullmann, B., and Schilling,
+  T.~F.}
+\newblock Stages of embryonic development of the zebrafish.
+\newblock {\em Developmental Dynamics 203}, 3 (1995), 253--310.
+
+\bibitem{kleinstreuer2011}
+{\sc Kleinstreuer, N.~C., Judson, R.~S., Reif, D.~M., Sipes, N.~S., Singh,
+  A.~V., Chandler, K.~J., DeWoskin, R., Dix, D.~J., Kavlock, R.~J., and
+  Knudsen, T.~B.}
+\newblock Environmental impact on vascular development predicted by
+  high-throughput screening.
+\newblock {\em Environmental health perspectives 119}, 11 (2011), 1596.
+
+\bibitem{Koenderink84}
+{\sc Koenderink, J.}
+\newblock The structure of images.
+\newblock {\em Biological Cybernetics 50}, 5 (1984), 363--370.
+
+\bibitem{Peter03}
+{\sc Kostelec, P.~J., and Periaswamy, S.}
+\newblock Image registration for mri, 2003.
+
+\bibitem{Lee97}
+{\sc Lee, S., Wolberg, G., and Shin, S.-Y.}
+\newblock Scattered data interpolation with multilevel b-splines.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on 3}, 3
+  (Jul 1997), 228--244.
+
+\bibitem{Lee94}
+{\sc Lee, T.-C., Kashyap, R.~L., and Chu, C.-N.}
+\newblock Building skeleton models via 3-d medial surface/axis thinning
+  algorithms.
+\newblock {\em CVGIP: Graph. Models Image Process. 56}, 6 (Nov. 1994),
+  462--478.
+
+\bibitem{Leonard05}
+{\sc Leonard I.~Zon, R. T.~P.}
+\newblock In vivo drug discovery in the zebrafish, 2005.
+
+\bibitem{Lindeberg96}
+{\sc Lindeberg, T.}
+\newblock Edge detection and ridge detection with automatic scale selection.
+\newblock In {\em Computer Vision and Pattern Recognition, 1996. Proceedings
+  CVPR '96, 1996 IEEE Computer Society Conference on\/} (Jun 1996),
+  pp.~465--470.
+
+\bibitem{Liu12}
+{\sc Liu, R., Lin, S., Rallo, R., Zhao, Y., Damoiseaux, R., Xia, T., Lin, S.,
+  Nel, A., and Cohen, Y.}
+\newblock Automated phenotype recognition for zebrafish embryo based in vivo
+  high throughput toxicity screening of engineered nano-materials, 2012.
+
+\bibitem{Liu06}
+{\sc Liu, T., Lu, J., Wang, Y., Campbell, W.~A., Huang, L., Zhu, J., Xia, W.,
+  and Wong, S.~T.}
+\newblock Computerized image analysis for quantitative neuronal phenotyping in
+  zebrafish.
+\newblock {\em Journal of Neuroscience Methods 153}, 2 (2006), 190 -- 202.
+
+\bibitem{Martin01}
+{\sc Martin, D., Fowlkes, C., Tal, D., and Malik, J.}
+\newblock A database of human segmented natural images and its application to
+  evaluating segmentation algorithms and measuring ecological statistics.
+\newblock In {\em Computer Vision, 2001. ICCV 2001. Proceedings. Eighth IEEE
+  International Conference on\/} (2001), vol.~2, pp.~416--423 vol.2.
+
+\bibitem{mccollum2011}
+{\sc McCollum, C.~W., Ducharme, N.~A., Bondesson, M., and Gustafsson, J.-A.}
+\newblock Developmental toxicity screening in zebrafish.
+\newblock {\em Birth Defects Research Part C: Embryo Today: Reviews 93}, 2
+  (2011), 67--114.
+
+\bibitem{mccollum2014}
+{\sc McCollum, C.~W., Hans, C., Shah, S., Merchant, F.~A., Gustafsson,
+  J.-{\AA}., and Bondesson, M.}
+\newblock Embryonic exposure to sodium arsenite perturbs vascular development
+  in zebrafish.
+\newblock {\em Aquatic Toxicology 152\/} (2014), 152--163.
+
+\bibitem{Ron13}
+{\sc Mikut, R., Dickmeis, T., Driever, W., Geurts, P., Hamprecht, F., Kausler,
+  B.~X., Ledesma-Carbayo, M.~J., Mar\'ee, R., Mikula, K., Pantazis, P.,
+  Ronneberger, O., Santos, A., Stotzka, R., Str{\"a}hle, U., and Peyri\'eras,
+  N.}
+\newblock Automated processing of zebrafish imaging data - a survey.
+\newblock {\em Zebrafish 10}, 3 (Aug 2013), 401--421.
+
+\bibitem{Newman11}
+{\sc Newman, M., Verdile, G., Martins, R.~N., and Lardelli, M.}
+\newblock Zebrafish as a tool in alzheimer's disease research.
+\newblock {\em Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease
+  1812}, 3 (2011), 346 -- 352.
+\newblock Including the Special Section: Zebrafish Models of Neurological
+  Diseases.
+
+\bibitem{niblack1985}
+{\sc Niblack, W.}
+\newblock {\em An introduction to digital image processing}.
+\newblock Strandberg Publishing Company, 1985.
+
+\bibitem{Pang12}
+{\sc Pang, Y., Yan, H., Yuan, Y., and Wang, K.}
+\newblock Robust cohog feature extraction in human-centered image/video
+  management system.
+\newblock {\em Systems, Man, and Cybernetics 42}, 2 (2012), 458--468.
+
+\bibitem{peng2008}
+{\sc Peng, H., Long, F., Liu, X., Kim, S.~K., and Myers, E.~W.}
+\newblock Straightening caenorhabditis elegans images.
+\newblock {\em Bioinformatics 24}, 2 (2008), 234--242.
+
+\bibitem{peravali2011}
+{\sc Peravali, R., Gehrig, J., Giselbrecht, S., L{\"u}tjohann, D.~S., Hadzhiev,
+  Y., M{\"u}ller, F., and Liebel, U.}
+\newblock Automated feature detection and imaging for high-resolution screening
+  of zebrafish embryos.
+\newblock {\em Biotechniques 50}, 5 (2011), 319.
+
+\bibitem{shalaby1995}
+{\sc Shalaby, F., Rossant, J., Yamaguchi, T.~P., Gertsenstein, M., Wu, X.-F.,
+  Breitman, M.~L., and Schuh, A.~C.}
+\newblock Failure of blood-island formation and vasculogenesis in
+  flk-1-deficient mice.
+\newblock {\em Nature 376}, 6535 (1995), 62--66.
+
+\bibitem{Shirinifard13}
+{\sc Shirinifard, A., McCollum, C.~W., Bolin, M.~B., Gustafsson, J.-k.,
+  Glazier, J.~A., and Clendenon, S.~G.}
+\newblock 3d quantitative analyses of angiogenic sprout growth dynamics.
+\newblock {\em Developmental Dynamics 242}, 5 (2013), 518--526.
+
+\bibitem{Stern11}
+{\sc Stern, O., Marée, R., Aceto, J., Jeanray, N., Muller, M., Wehenkel, L.,
+  and Geurts, P.}
+\newblock Automatic localization of interest points in zebrafish images with
+  tree-based methods.
+\newblock In {\em Pattern Recognition in Bioinformatics}, M.~Loog, L.~Wessels,
+  M.~Reinders, and D.~de~Ridder, Eds., vol.~7036 of {\em Lecture Notes in
+  Computer Science}. Springer Berlin Heidelberg, 2011, pp.~179--190.
+
+\bibitem{Tal14}
+{\sc Tal, T., McCollum, C., Harris, P., Olin, J., Kleinstreuer, N., Wood, C.,
+  Hans, C., Shah, S., Merchant, F., Bondesson, M., Knudsen, T., Padilla, S.,
+  and Hemmer, M.}
+\newblock Immediate and long-term consequences of vascular toxicity during
+  zebrafish development.
+\newblock {\em Reproductive Toxicology 48}, 0 (2014), 51 -- 61.
+\newblock 42nd Annual Conference of the European Teratology Society.
+
+\bibitem{Tran07}
+{\sc Tran, T.~C., Sneed, B., Haider, J., Blavo, D., White, A., Aiyejorun, T.,
+  Baranowski, T.~C., Rubinstein, A.~L., Doan, T.~N., Dingledine, R., and
+  Sandberg, E.~M.}
+\newblock Automated, quantitative screening assay for antiangiogenic compounds
+  using transgenic zebrafish.
+\newblock {\em Cancer Research 67}, 23 (2007), 11386--11392.
+
+\bibitem{Vogt09}
+{\sc Vogt, A., Cholewinski, A., Shen, X., Nelson, S.~G., Lazo, J.~S., Tsang,
+  M., and Hukriede, N.~A.}
+\newblock Automated image-based phenotypic analysis in zebrafish embryos.
+\newblock {\em Developmental Dynamics 238}, 3 (2009), 656--663.
+
+\bibitem{Wada09}
+{\sc Wada, T., Huang, F., and Lin, S.}
+\newblock {\em Co-occurrence Histograms of Oriented Gradients for Pedestrian
+  Detection}, vol.~5414.
+\newblock 2009.
+
+\bibitem{Wang10}
+{\sc Wang, K., and Belongie, S.}
+\newblock Word spotting in the wild.
+\newblock In {\em Computer Vision – ECCV 2010}, vol.~6311. 2010,
+  pp.~591--604.
+
+\bibitem{westerfield00}
+{\sc Westerfield, M.}
+\newblock {\em The zebrafish book: a guide for the laboratory use of zebrafish
+  (Danio rerio)}.
+\newblock University of Oregon Press, 2000.
+
+\bibitem{Xu10}
+{\sc Xu, X., Xu, X., Huang, X., Xia, W., and Xia, S.}
+\newblock A high-throughput analysis method to detect regions of interest and
+  quantify zebrafish embryo images.
+\newblock {\em Journal of Biomolecular Screening 15}, 9 (2010), 1152--1159.
+
+\bibitem{Yang09}
+{\sc Yang, L., Ho, N.~Y., Alshut, R., Legradi, J., Weiss, C., Reischl, M.,
+  Mikut, R., Liebel, U., Müller, F., and Strähle, U.}
+\newblock Zebrafish embryos as models for embryotoxic and teratological effects
+  of chemicals.
+\newblock {\em Reproductive Toxicology 28}, 2 (2009), 245 -- 253.
+\newblock 37th Annual Conference of the European Teratology Society.
+
+\bibitem{yaniv2006}
+{\sc Yaniv, K., Isogai, S., Castranova, D., Dye, L., Hitomi, J., and Weinstein,
+  B.~M.}
+\newblock Live imaging of lymphatic development in the zebrafish.
+\newblock {\em Nature medicine 12}, 6 (2006), 711--716.
+
+\bibitem{Yozzo13}
+{\sc Yozzo, K.~L., Isales, G.~M., Raftery, T.~D., and Volz, D.~C.}
+\newblock High-content screening assay for identification of chemicals
+  impacting cardiovascular function in zebrafish embryos.
+\newblock {\em Environmental Science \& Technology 47}, 19 (2013),
+  11302--11310.
+\newblock PMID: 24015875.
+
+\bibitem{zack77}
+{\sc Zack, G., Rogers, W., and Latt, S.}
+\newblock Automatic measurement of sister chromatid exchange frequency.
+\newblock {\em Journal of Histochemistry \& Cytochemistry 25}, 7 (1977),
+  741--753.
+
+\end{thebibliography}

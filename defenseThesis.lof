@@ -1,0 +1,37 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Zebrafish embryo anatomy}}{7}{figure.caption.3}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces System Overview}}{15}{figure.caption.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Overview of an automated/semi-automated image analysis methods.}}{25}{figure.caption.6}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Overview of vasculature image analysis methods}}{31}{figure.caption.7}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Overview of an automated vasculature image analysis methods}}{31}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Zebrafish embryo extraction procedure}}{35}{figure.caption.9}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Intensity profile of ISV + DLAV region compared to tail + head region}}{39}{figure.caption.10}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Procedure for finding head yolk position}}{40}{figure.caption.11}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces ROI Detection}}{43}{figure.caption.12}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces ISV principal direction estimation}}{48}{figure.caption.13}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces CVP Segmentation}}{50}{figure.caption.14}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces ISV skeleton}}{53}{figure.caption.15}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces HOG features from a CV image}}{56}{figure.caption.16}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Co-HOG features from a CV image}}{58}{figure.caption.17}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Quantification Procedure}}{62}{figure.caption.18}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Zebrafish full anatomy 2d dataset}}{66}{figure.caption.19}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Maximum intensity projection}}{68}{figure.caption.20}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Zebrafish vasculature dataset}}{69}{figure.caption.21}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces ISV segmented images}}{73}{figure.caption.22}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Comparison between the automated segmentation and manual segmentation of ISV.}}{75}{figure.caption.24}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Effect of toxins on ISV}}{76}{figure.caption.25}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Effect of toxins on ISV morphology}}{78}{figure.caption.26}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Healthy and treated CVP}}{79}{figure.caption.27}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Effect of varying dosage on ISV}}{85}{figure.caption.36}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Effect of varying dosage on CVP}}{85}{figure.caption.37}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Safe Dosage for ISV and CVP}}{87}{figure.caption.38}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Average comparison between healthy and treated}}{90}{figure.caption.39}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Individual comparison between healthy and treated}}{90}{figure.caption.40}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Images with the blurred and noisy ISV}}{94}{figure.caption.41}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Images with the blurred and noisy CVP}}{95}{figure.caption.42}
